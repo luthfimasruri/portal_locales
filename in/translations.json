@@ -1,0 +1,58 @@
+{
+  "footer": {
+    "ikuti_kami": "Ikuti Lembaga OSS di Media Sosial",
+    "kontak_kami": "Kontak kami"
+  },
+  "global": {
+    "lihat_semua": "Lihat Semua",
+    "masuk_sekarang": "MASUK SEKARANG",
+    "masukan_saran": "masukan & saran",
+    "pencarian": "Pencarian"
+  },
+  "home": {
+    "berita_pengumuman": "BERITA & PENGUMUMAN",
+    "berlokasi_kek": "BERLOKASI DI KEK/KPBPB",
+    "faq": "FAQ",
+    "masuk_sebagai": "MASUK SEBAGAI",
+    "masuk_sebagai1": {
+      "dpmptsp": "DPMPTSP",
+      "kawasan": "KAWASAN",
+      "kementerian_lembaga": "KEMENTERIAN DAN LEMBAGA"
+    },
+    "pegaduan_masyarakat": "PENGADUAN MASYARAKAT",
+    "tautan_terkait": "TAUTAN TERKAIT",
+    "video": "VIDEO"
+  },
+  "navbar": {
+    "beranda": "BERANDA",
+    "informasi": "INFORMASI",
+    "informasi1": {
+      "berita": "Berita",
+      "bupm": "Bidang Usaha Penanaman Modal (BUPM)",
+      "faq": "Frequently Asked Questions (FAQ)",
+      "fasilitas_berusaha": "Fasilitas Berusaha",
+      "kbli": "Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2020",
+      "lkpm": "Laporan Kegiatan Penanaman Modal (LKPM)",
+      "lokasi_usaha": "Informasi Lokasi Usaha",
+      "mekanisme_pengawasan": "Mekanisme Pengawasan",
+      "pengaduan_masyarakat": "Pengaduan Masyarakat",
+      "pengumuman": "Pengumuman",
+      "video": "Video"
+    },
+    "kontak": "KONTAK",
+    "kontak1": {
+      "konsultasi": "Konsultasi"
+    },
+    "panduan": "PANDUAN",
+    "regulasi": "REGULASI"
+  },
+  "services": {
+    "non_umk": "AJUKAN PERIZINAN USAHA MENENGAH & BESAR",
+    "panduan": "PANDUAN OSS",
+    "umk": "AJUKAN PERIZINAN USAHA MIKRO & KECIL"
+  },
+  "topbar": {
+    "daftar": "DAFTAR",
+    "masuk": "MASUK"
+  }
+}

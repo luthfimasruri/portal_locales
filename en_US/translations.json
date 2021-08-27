@@ -1,0 +1,58 @@
+{
+  "footer": {
+    "ikuti_kami": "Follow OSS Institutions on Social Media",
+    "kontak_kami": "Contact us"
+  },
+  "global": {
+    "lihat_semua": "See All",
+    "masuk_sekarang": "LOGIN NOW",
+    "masukan_saran": "feedback & suggestions",
+    "pencarian": "Search"
+  },
+  "home": {
+    "berita_pengumuman": "NEWS & ANNOUNCEMENTS",
+    "berlokasi_kek": "LOCATED IN KEK/KPBPB",
+    "faq": "FAQ",
+    "masuk_sebagai": "LOGIN AS",
+    "masuk_sebagai1": {
+      "dpmptsp": "DPMPTSP",
+      "kawasan": "REGION",
+      "kementerian_lembaga": "MINISTRY AND INSTITUTIONS"
+    },
+    "pegaduan_masyarakat": "PUBLIC COMPLAINTS",
+    "tautan_terkait": "RELATED LINKS",
+    "video": "VIDEOS"
+  },
+  "navbar": {
+    "beranda": "HOME",
+    "informasi": "INFORMATION",
+    "informasi1": {
+      "berita": "News",
+      "bupm": "Investment Business Sector (BUPM)",
+      "faq": "Frequently Asked Questions (FAQ)",
+      "fasilitas_berusaha": "Business Facilities",
+      "kbli": "Standard Classification of Indonesian Business Fields (KBLI) 2020",
+      "lkpm": "Investment Activity Report (LKPM)",
+      "lokasi_usaha": "Business Location Information",
+      "mekanisme_pengawasan": "Monitoring Mechanism",
+      "pengaduan_masyarakat": "Public Complaint",
+      "pengumuman": "Announcement",
+      "video": "Video"
+    },
+    "kontak": "CONTACT",
+    "kontak1": {
+      "konsultasi": "Consultation"
+    },
+    "panduan": "GUIDE",
+    "regulasi": "REGULATION"
+  },
+  "services": {
+    "non_umk": "APPLY FOR MEDIUM & LARGE BUSINESS LICENSE",
+    "panduan": "OSS GUIDE",
+    "umk": "APPLY FOR MICRO & SMALL BUSINESS LICENSE"
+  },
+  "topbar": {
+    "daftar": "REGISTER",
+    "masuk": "LOGIN"
+  }
+}
