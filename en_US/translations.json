@@ -1,29 +1,20 @@
 {
-  "footer": {
+  "m_footer": {
     "ikuti_kami": "Follow OSS Institutions on Social Media",
     "kontak_kami": "Contact us"
   },
-  "global": {
+  "m_global": {
+    "dari": "From",
+    "halaman": "Page",
     "lihat_semua": "See All",
     "masuk_sekarang": "LOGIN NOW",
     "masukan_saran": "feedback & suggestions",
-    "pencarian": "Search"
+    "no_data": "Data not found",
+    "no_data1": "Data not yet available",
+    "pencarian": "Search",
+    "tidak_ada": "None"
   },
-  "home": {
-    "berita_pengumuman": "NEWS & ANNOUNCEMENTS",
-    "berlokasi_kek": "LOCATED IN KEK/KPBPB",
-    "faq": "FAQ",
-    "masuk_sebagai": "LOGIN AS",
-    "masuk_sebagai1": {
-      "dpmptsp": "DPMPTSP",
-      "kawasan": "REGION",
-      "kementerian_lembaga": "MINISTRY AND INSTITUTIONS"
-    },
-    "pegaduan_masyarakat": "PUBLIC COMPLAINTS",
-    "tautan_terkait": "RELATED LINKS",
-    "video": "VIDEOS"
-  },
-  "navbar": {
+  "m_navbar": {
     "beranda": "HOME",
     "informasi": "INFORMATION",
     "informasi1": {
@@ -46,13 +37,73 @@
     "panduan": "GUIDE",
     "regulasi": "REGULATION"
   },
-  "services": {
-    "non_umk": "APPLY FOR MEDIUM & LARGE BUSINESS LICENSE",
-    "panduan": "OSS GUIDE",
-    "umk": "APPLY FOR MICRO & SMALL BUSINESS LICENSE"
+  "m_table": {
+    "thead": {
+      "bidang_usaha": "Business Fields",
+      "cakupan_produk": "Product Coverage",
+      "jenis_rtr": "RTR Type",
+      "kab_kota": "County/City",
+      "kbli": "KBLI",
+      "kegiatan_utama": "Main Activities",
+      "kontak": "Contact",
+      "kontak_admin": "Administrator Contact",
+      "kontak_bupp": "Contact Business Entity Builders and Management (BUPP)",
+      "lokasi": "Location",
+      "luas_lahan": "Land Area (Ha)",
+      "nama_kawasan": "Region Name",
+      "nama_proyek": "Project Name",
+      "nama_rdtr": "RDTR Name",
+      "no": "No",
+      "pengelola_kawasan": "Area Manager",
+      "perda_rz": "Perda RZ WP3K",
+      "persyaratan": "Requirements",
+      "provinsi": "Province",
+      "sektor_usaha": "Business Sector",
+      "status": "Status",
+      "total_perda": "Total Perda"
+    }
   },
-  "topbar": {
+  "m_topbar": {
     "daftar": "REGISTER",
     "masuk": "LOGIN"
+  },
+  "p_home": {
+    "berita_pengumuman": "NEWS & ANNOUNCEMENTS",
+    "berlokasi_kek": "LOCATED IN KEK/KPBPB",
+    "faq": "FAQ",
+    "masuk_sebagai": "LOGIN AS",
+    "masuk_sebagai1": {
+      "dpmptsp": "DPMPTSP",
+      "kawasan": "REGION",
+      "kementerian_lembaga": "MINISTRY AND INSTITUTIONS"
+    },
+    "pegaduan_masyarakat": "PUBLIC COMPLAINTS",
+    "services": {
+      "non_umk": "APPLY FOR MEDIUM & LARGE BUSINESS LICENSE",
+      "panduan": "OSS GUIDE",
+      "umk": "APPLY FOR MICRO & SMALL BUSINESS LICENSE"
+    },
+    "tautan_terkait": "RELATED LINKS",
+    "video": "VIDEOS"
+  },
+  "p_kbli": {
+    "ruang_lingkup": "SCOPE",
+    "ruang_lingkup1": {
+      "jangka_waktu": "Time period",
+      "jangka_waktu_kewajiban": "Period of fulfillment of obligations",
+      "jangka_waktu_persyaratan": "Period of fulfillment of requirements",
+      "kewajiban_perizinan": "Business licensing obligations",
+      "kewenangan": "Authority",
+      "luas_lahan": "Land Area",
+      "masa_berlaku": "Validity Period",
+      "parameter": "Parameter",
+      "perizinan_berusaha": "Business License",
+      "persyaratan_perizinan": "Business licensing requirements",
+      "skala": "Scale",
+      "tingkat_risiko": "Risk Level"
+    },
+    "sebelumnya": "PREVIOUSLY",
+    "turunan": "DERIVATIVE",
+    "uraian": "DESCRIPTION"
   }
 }

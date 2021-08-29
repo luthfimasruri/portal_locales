@@ -1,29 +1,20 @@
 {
-  "footer": {
+  "m_footer": {
     "ikuti_kami": "Ikuti Lembaga OSS di Media Sosial",
     "kontak_kami": "Kontak kami"
   },
-  "global": {
+  "m_global": {
+    "dari": "Dari",
+    "halaman": "Halaman",
     "lihat_semua": "Lihat Semua",
     "masuk_sekarang": "MASUK SEKARANG",
     "masukan_saran": "masukan & saran",
-    "pencarian": "Pencarian"
+    "no_data": "Data tidak ditemukan",
+    "no_data1": "Data belum tersedia",
+    "pencarian": "Pencarian",
+    "tidak_ada": "Tidak ada"
   },
-  "home": {
-    "berita_pengumuman": "BERITA & PENGUMUMAN",
-    "berlokasi_kek": "BERLOKASI DI KEK/KPBPB",
-    "faq": "FAQ",
-    "masuk_sebagai": "MASUK SEBAGAI",
-    "masuk_sebagai1": {
-      "dpmptsp": "DPMPTSP",
-      "kawasan": "KAWASAN",
-      "kementerian_lembaga": "KEMENTERIAN DAN LEMBAGA"
-    },
-    "pegaduan_masyarakat": "PENGADUAN MASYARAKAT",
-    "tautan_terkait": "TAUTAN TERKAIT",
-    "video": "VIDEO"
-  },
-  "navbar": {
+  "m_navbar": {
     "beranda": "BERANDA",
     "informasi": "INFORMASI",
     "informasi1": {
@@ -46,13 +37,73 @@
     "panduan": "PANDUAN",
     "regulasi": "REGULASI"
   },
-  "services": {
-    "non_umk": "AJUKAN PERIZINAN USAHA MENENGAH & BESAR",
-    "panduan": "PANDUAN OSS",
-    "umk": "AJUKAN PERIZINAN USAHA MIKRO & KECIL"
+  "m_table": {
+    "thead": {
+      "bidang_usaha": "Bidang Usaha",
+      "cakupan_produk": "Cakupan Produk",
+      "jenis_rtr": "Jenis RTR",
+      "kab_kota": "Kabupaten/Kota",
+      "kbli": "KBLI",
+      "kegiatan_utama": "Kegiatan Utama",
+      "kontak": "Kontak",
+      "kontak_admin": "Kontak Administrator",
+      "kontak_bupp": "Kontak Badan Usaha Pembangun dan Pengelola (BUPP)",
+      "lokasi": "Lokasi",
+      "luas_lahan": "Luas Lahan (Ha)",
+      "nama_kawasan": "Nama Kawasan",
+      "nama_proyek": "Nama Proyek",
+      "nama_rdtr": "Nama RDTR",
+      "no": "No",
+      "pengelola_kawasan": "Pengelola Kawasan",
+      "perda_rz": "Perda RZ WP3K",
+      "persyaratan": "Persyaratan",
+      "provinsi": "Provinsi",
+      "sektor_usaha": "Sektor Usaha",
+      "status": "Status",
+      "total_perda": "Total Perda"
+    }
   },
-  "topbar": {
+  "m_topbar": {
     "daftar": "DAFTAR",
     "masuk": "MASUK"
+  },
+  "p_home": {
+    "berita_pengumuman": "BERITA & PENGUMUMAN",
+    "berlokasi_kek": "BERLOKASI DI KEK/KPBPB",
+    "faq": "FAQ",
+    "masuk_sebagai": "MASUK SEBAGAI",
+    "masuk_sebagai1": {
+      "dpmptsp": "DPMPTSP",
+      "kawasan": "KAWASAN",
+      "kementerian_lembaga": "KEMENTERIAN DAN LEMBAGA"
+    },
+    "pegaduan_masyarakat": "PENGADUAN MASYARAKAT",
+    "services": {
+      "non_umk": "AJUKAN PERIZINAN USAHA MENENGAH & BESAR",
+      "panduan": "PANDUAN OSS",
+      "umk": "AJUKAN PERIZINAN USAHA MIKRO & KECIL"
+    },
+    "tautan_terkait": "TAUTAN TERKAIT",
+    "video": "VIDEO"
+  },
+  "p_kbli": {
+    "ruang_lingkup": "RUANG LINGKUP",
+    "ruang_lingkup1": {
+      "jangka_waktu": "Jangka Waktu",
+      "jangka_waktu_kewajiban": "Jangka waktu pemenuhan kewajiban",
+      "jangka_waktu_persyaratan": "Jangka waktu pemenuhan persyaratan",
+      "kewajiban_perizinan": "Kewajiban perizinan berusaha",
+      "kewenangan": "Kewenangan",
+      "luas_lahan": "Luas Lahan",
+      "masa_berlaku": "Masa Berlaku",
+      "parameter": "Parameter",
+      "perizinan_berusaha": "Perizinan Berusaha",
+      "persyaratan_perizinan": "Persyaratan perizinan berusaha",
+      "skala": "Skala",
+      "tingkat_risiko": "Tingkat Risiko"
+    },
+    "sebelumnya": "SEBELUMNYA",
+    "turunan": "TURUNAN",
+    "uraian": "URAIAN"
   }
 }
