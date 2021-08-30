@@ -75,6 +75,21 @@
     "daftar": "REGISTER",
     "masuk": "LOGIN"
   },
+  "p_bupm": {
+    "budk": "BUSINESS FIELDS ALLOCATED AND PARTNERSHIPS WITH COOPERATIVES AND MSMEs",
+    "budk1": {
+      "budka": "Business Fields Allocated for Cooperatives and MSMEs",
+      "budkk": "Partnership Business Fields with Cooperatives and MSMEs"
+    },
+    "bup": "PRIORITY BUSINESS FIELDS",
+    "bup1": {
+      "ia": "Investment Allowance",
+      "ta": "Tax Allowance",
+      "th": "Tax Holiday"
+    },
+    "bupt": "BUSINESS FIELDS CERTAIN REQUIREMENTS",
+    "but": "BUSINESS FIELDS CLOSED"
+  },
   "p_home": {
     "berita_pengumuman": "NEWS & ANNOUNCEMENTS",
     "berlokasi_kek": "LOCATED IN KEK/KPBPB",
@@ -113,6 +128,18 @@
     "sebelumnya": "PREVIOUSLY",
     "turunan": "DERIVATIVE",
     "uraian": "DESCRIPTION"
+  },
+  "p_lokasi_usaha": {
+    "kek": "SPECIAL ECONOMIC AREA (SEZ)",
+    "ki": "INDUSTRIAL AREA (KI)",
+    "kpbpb": "FREE TRADE AREA AND FREE PORT (KPBPB)",
+    "psn": "NATIONAL STRATEGIC PROJECT (PSN)",
+    "rtr": "SPATIAL PLAN (RTR)",
+    "rtr1": {
+      "prl": "Coastal and Marine Spatial Management",
+      "rdtr": "Interactive RDTR",
+      "rtro": "RTR Online"
+    }
   },
   "p_regulasi": {
     "detail_informasi": "Information Details",

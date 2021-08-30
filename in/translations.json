@@ -75,6 +75,21 @@
     "daftar": "DAFTAR",
     "masuk": "MASUK"
   },
+  "p_bupm": {
+    "budk": "BIDANG USAHA DIALOKASIKAN DAN KEMITRAAN DENGAN KOPERASI DAN UMKM",
+    "budk1": {
+      "budka": "Bidang Usaha yang Dialokasikan untuk Koperasi dan UMKM",
+      "budkk": "Bidang Usaha Kemitraan dengan Koperasi dan UMKM"
+    },
+    "bup": "BIDANG USAHA PRIORITAS",
+    "bup1": {
+      "ia": "Investment Allowance",
+      "ta": "Tax Allowance",
+      "th": "Tax Holiday"
+    },
+    "bupt": "BIDANG USAHA PERSYARATAN TERTENTU",
+    "but": "BIDANG USAHA TERTUTUP"
+  },
   "p_home": {
     "berita_pengumuman": "BERITA & PENGUMUMAN",
     "berlokasi_kek": "BERLOKASI DI KEK/KPBPB",
@@ -113,6 +128,18 @@
     "sebelumnya": "SEBELUMNYA",
     "turunan": "TURUNAN",
     "uraian": "URAIAN"
+  },
+  "p_lokasi_usaha": {
+    "kek": "KAWASAN EKONOMI KHUSUS (KEK)",
+    "ki": "KAWASAN INDUSTRI (KI)",
+    "kpbpb": "KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS (KPBPB)",
+    "psn": "PROYEK STRATEGIS NASIONAL (PSN)",
+    "rtr": "RENCANA TATA RUANG (RTR)",
+    "rtr1": {
+      "prl": "Pengelolaan Pesisir dan Ruang Laut",
+      "rdtr": "RDTR Interaktif",
+      "rtro": "RTR Online"
+    }
   },
   "p_regulasi": {
     "detail_informasi": "Detail Informasi",
