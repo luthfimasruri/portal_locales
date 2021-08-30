@@ -82,13 +82,17 @@
       "budkk": "Bidang Usaha Kemitraan dengan Koperasi dan UMKM"
     },
     "bup": "BIDANG USAHA PRIORITAS",
-    "bup1": {
-      "ia": "Investment Allowance",
-      "ta": "Tax Allowance",
-      "th": "Tax Holiday"
-    },
     "bupt": "BIDANG USAHA PERSYARATAN TERTENTU",
     "but": "BIDANG USAHA TERTUTUP"
+  },
+  "p_fasilitas_berusaha": {
+    "fasilitas_impor": "FASILITAS IMPOR",
+    "fasilitas_kek": "FASILITAS KAWASAN EKONOMI KHUSUS (KEK)",
+    "ia": "Investment Allowance",
+    "litbang": "LITBANG",
+    "ta": "Tax Allowance",
+    "th": "Tax Holiday",
+    "vokasi": "VOKASI"
   },
   "p_home": {
     "berita_pengumuman": "BERITA & PENGUMUMAN",
