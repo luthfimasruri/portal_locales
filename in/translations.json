@@ -41,6 +41,9 @@
     "thead": {
       "bidang_usaha": "Bidang Usaha",
       "cakupan_produk": "Cakupan Produk",
+      "dasar_hukum": "Dasar Hukum",
+      "informasi": "Informasi",
+      "jenis_fasilitas": "Jenis Fasilitas",
       "jenis_rtr": "Jenis RTR",
       "kab_kota": "Kabupaten/Kota",
       "kbli": "KBLI",
@@ -51,15 +54,20 @@
       "lokasi": "Lokasi",
       "luas_lahan": "Luas Lahan (Ha)",
       "nama_kawasan": "Nama Kawasan",
+      "nama_peraturan": "Nama Peraturan",
       "nama_proyek": "Nama Proyek",
       "nama_rdtr": "Nama RDTR",
       "no": "No",
+      "no_peraturan": "Nomor Peraturan",
+      "objek_fasilitas": "Objek yang diberikan Fasilitas",
       "pengelola_kawasan": "Pengelola Kawasan",
       "perda_rz": "Perda RZ WP3K",
       "persyaratan": "Persyaratan",
       "provinsi": "Provinsi",
       "sektor_usaha": "Sektor Usaha",
       "status": "Status",
+      "subjek_permohonan": "Subjek (Permohonan)",
+      "tgl_pengundangan": "Tanggal Pengundangan",
       "total_perda": "Total Perda"
     }
   },
@@ -105,5 +113,12 @@
     "sebelumnya": "SEBELUMNYA",
     "turunan": "TURUNAN",
     "uraian": "URAIAN"
+  },
+  "p_regulasi": {
+    "detail_informasi": "Detail Informasi",
+    "detail_peraturan": "Detail Peraturan",
+    "nama_peraturan": "Nama Peraturan",
+    "nomor_peraturan": "Nomor Peraturan",
+    "tgl_terbit": "Tanggal Penerbitan"
   }
 }

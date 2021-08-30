@@ -41,6 +41,9 @@
     "thead": {
       "bidang_usaha": "Business Fields",
       "cakupan_produk": "Product Coverage",
+      "dasar_hukum": "Legal Basis",
+      "informasi": "Information",
+      "jenis_fasilitas": "Facility Type",
       "jenis_rtr": "RTR Type",
       "kab_kota": "County/City",
       "kbli": "KBLI",
@@ -51,15 +54,20 @@
       "lokasi": "Location",
       "luas_lahan": "Land Area (Ha)",
       "nama_kawasan": "Region Name",
+      "nama_peraturan": "Regulation Name",
       "nama_proyek": "Project Name",
       "nama_rdtr": "RDTR Name",
       "no": "No",
+      "no_peraturan": "Regulation Number",
+      "objek_fasilitas": "Facility Granted Object",
       "pengelola_kawasan": "Area Manager",
       "perda_rz": "Perda RZ WP3K",
       "persyaratan": "Requirements",
       "provinsi": "Province",
       "sektor_usaha": "Business Sector",
       "status": "Status",
+      "subjek_permohonan": "Subject (Application)",
+      "tgl_pengundangan": "Invitation Date",
       "total_perda": "Total Perda"
     }
   },
@@ -105,5 +113,12 @@
     "sebelumnya": "PREVIOUSLY",
     "turunan": "DERIVATIVE",
     "uraian": "DESCRIPTION"
+  },
+  "p_regulasi": {
+    "detail_informasi": "Information Details",
+    "detail_peraturan": "Regulation Details",
+    "nama_peraturan": "Regulation Name",
+    "nomor_peraturan": "Regulation Number",
+    "tgl_terbit": "Publication Date"
   }
 }
