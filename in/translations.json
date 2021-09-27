@@ -6,13 +6,20 @@
   "m_global": {
     "dari": "Dari",
     "halaman": "Halaman",
+    "kategori": "Kategori",
+    "kembali": "Kembali",
+    "kirimkan": "Kirimkan",
     "lihat_semua": "Lihat Semua",
     "masuk_sekarang": "MASUK SEKARANG",
     "masukan_saran": "masukan & saran",
     "no_data": "Data tidak ditemukan",
     "no_data1": "Data belum tersedia",
     "pencarian": "Pencarian",
-    "tidak_ada": "Tidak ada"
+    "selanjutnya": "Selanjutnya",
+    "selengkapnya": "Selengkapnya",
+    "tidak": "No",
+    "tidak_ada": "Tidak ada",
+    "ya": "Ya"
   },
   "m_navbar": {
     "beranda": "BERANDA",
@@ -28,6 +35,7 @@
       "mekanisme_pengawasan": "Mekanisme Pengawasan",
       "pengaduan_masyarakat": "Pengaduan Masyarakat",
       "pengumuman": "Pengumuman",
+      "umku": "Untuk Menunjang Kegiatan Usaha (UMKU)",
       "video": "Video"
     },
     "kontak": "KONTAK",
@@ -75,6 +83,12 @@
     "daftar": "DAFTAR",
     "masuk": "MASUK"
   },
+  "p_berita": {
+    "apa_yg_sedang_anda_cari": "Berita apa yang sedang Anda cari?",
+    "bagikan": "Bagikan berita ini",
+    "populer": "BERITA POPULER",
+    "terbaru": "BERITA TERBARU"
+  },
   "p_bupm": {
     "budk": "BIDANG USAHA DIALOKASIKAN DAN KEMITRAAN DENGAN KOPERASI DAN UMKM",
     "budk1": {
@@ -84,6 +98,22 @@
     "bup": "BIDANG USAHA PRIORITAS",
     "bupt": "BIDANG USAHA PERSYARATAN TERTENTU",
     "but": "BIDANG USAHA TERTUTUP"
+  },
+  "p_faq": {
+    "apa_ini_membantu": "Apa ini membantu?",
+    "apa_yg_bisa_kami_bantu": "Apa yang bisa kami bantu?",
+    "feedback": {
+      "beri_rating": "Beri Rating FAQ ini",
+      "data_perlu_diperbarui": "Data Perlu Diperbarui",
+      "data_tidak_relevan": "Data Tidak Relevan",
+      "faq_mudah_dipahami": "FAQ Mudah Di Pahami",
+      "faq_sangat_membantu": "FAQ Sangat Membantu",
+      "gagal_kirim_faq": "Gagal mengirim pemberian rating FAQ",
+      "terima_kasih": "Terimakasih telah menggunakan layanan FAQ",
+      "terima_kasih_telah": "Terimakasih telah memberikan rating FAQ"
+    },
+    "kembali_ke_faq": "Kembali ke FAQ",
+    "ketik_apa_yg_ingin_kamu_cari": "Ketik apa yang ingin kamu cari"
   },
   "p_fasilitas_berusaha": {
     "fasilitas_impor": "FASILITAS IMPOR",
@@ -145,11 +175,36 @@
       "rtro": "RTR Online"
     }
   },
+  "p_pencarian": {
+    "apa_yg_sedang_anda_cari": "Apa yang sedang Anda cari?",
+    "berita": "BERITA",
+    "dari_total": "dari total",
+    "faq": "FAQ",
+    "kbli": "KBLI",
+    "menampilkan": "Menampilkan",
+    "panduan": "PANDUAN",
+    "pengumuman": "PENGUMUMAN",
+    "regulasi": "REGULASI",
+    "semua": "SEMUA",
+    "solusi_ditemukan": "solusi ditemukan",
+    "video": "VIDEO"
+  },
+  "p_pengumuman": {
+    "apa_yg_sedang_anda_cari": "Pengumuman apa yang sedang Anda cari?",
+    "bagikan": "Bagikan pengumuman ini",
+    "populer": "PENGUMUMAN POPULER",
+    "terbaru": "PENGUMUMAN TERBARU"
+  },
   "p_regulasi": {
     "detail_informasi": "Detail Informasi",
     "detail_peraturan": "Detail Peraturan",
     "nama_peraturan": "Nama Peraturan",
     "nomor_peraturan": "Nomor Peraturan",
     "tgl_terbit": "Tanggal Penerbitan"
+  },
+  "p_video": {
+    "info_oss": "Info OSS",
+    "semua_video": "Semua Video",
+    "tutorial_oss": "Tutorial OSS"
   }
 }

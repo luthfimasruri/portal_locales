@@ -6,13 +6,20 @@
   "m_global": {
     "dari": "From",
     "halaman": "Page",
+    "kategori": "Categories",
+    "kembali": "Back",
+    "kirimkan": "Send",
     "lihat_semua": "See All",
     "masuk_sekarang": "LOGIN NOW",
     "masukan_saran": "feedback & suggestions",
     "no_data": "Data not found",
     "no_data1": "Data not yet available",
     "pencarian": "Search",
-    "tidak_ada": "None"
+    "selanjutnya": "Next",
+    "selengkapnya": "More",
+    "tidak": "Tidak",
+    "tidak_ada": "None",
+    "ya": "Yes"
   },
   "m_navbar": {
     "beranda": "HOME",
@@ -28,6 +35,7 @@
       "mekanisme_pengawasan": "Monitoring Mechanism",
       "pengaduan_masyarakat": "Public Complaint",
       "pengumuman": "Announcement",
+      "umku": "To Support Business Activities (UMKU)",
       "video": "Video"
     },
     "kontak": "CONTACT",
@@ -75,6 +83,12 @@
     "daftar": "REGISTER",
     "masuk": "LOGIN"
   },
+  "p_berita": {
+    "apa_yg_sedang_anda_cari": "What news are you looking for?",
+    "bagikan": "Share this news",
+    "populer": "POPULAR NEWS",
+    "terbaru": "LATEST NEWS"
+  },
   "p_bupm": {
     "budk": "BUSINESS FIELDS ALLOCATED AND PARTNERSHIPS WITH COOPERATIVES AND MSMEs",
     "budk1": {
@@ -84,6 +98,22 @@
     "bup": "PRIORITY BUSINESS FIELDS",
     "bupt": "BUSINESS FIELDS CERTAIN REQUIREMENTS",
     "but": "BUSINESS FIELDS CLOSED"
+  },
+  "p_faq": {
+    "apa_ini_membantu": "Does this help?",
+    "apa_yg_bisa_kami_bantu": "What can we help?",
+    "feedback": {
+      "beri_rating": "Rate this FAQ",
+      "data_perlu_diperbarui": "Data Needs to be Updated",
+      "data_tidak_relevan": "Irrelevant Data",
+      "faq_mudah_dipahami": "Easy to Understand FAQ",
+      "faq_sangat_membantu": "Very Helpful FAQ",
+      "gagal_kirim_faq": "Failed to submit rating FAQ",
+      "terima_kasih": "Thank you for using the FAQ service",
+      "terima_kasih_telah": "Thank you for rating FAQ"
+    },
+    "kembali_ke_faq": "Back to FAQ",
+    "ketik_apa_yg_ingin_kamu_cari": "Type what you want to search"
   },
   "p_fasilitas_berusaha": {
     "fasilitas_impor": "IMPORT FACILITY",
@@ -145,11 +175,36 @@
       "rtro": "RTR Online"
     }
   },
+  "p_pencarian": {
+    "apa_yg_sedang_anda_cari": "What are you looking for?",
+    "berita": "NEWS",
+    "dari_total": "of total",
+    "faq": "FAQ",
+    "kbli": "KBLI",
+    "menampilkan": "Showing",
+    "panduan": "GUIDE",
+    "pengumuman": "ANNOUNCEMENT",
+    "regulasi": "REGULATIONS",
+    "semua": "ALL",
+    "solusi_ditemukan": "solutions found",
+    "video": "VIDEO"
+  },
+  "p_pengumuman": {
+    "apa_yg_sedang_anda_cari": "What announcement are you looking for?",
+    "bagikan": "Share this announcement",
+    "populer": "POPULAR ANNOUNCEMENTS",
+    "terbaru": "LATEST ANNOUNCEMENT"
+  },
   "p_regulasi": {
     "detail_informasi": "Information Details",
     "detail_peraturan": "Regulation Details",
     "nama_peraturan": "Regulation Name",
     "nomor_peraturan": "Regulation Number",
     "tgl_terbit": "Publication Date"
+  },
+  "p_video": {
+    "info_oss": "OSS Info",
+    "semua_video": "All Videos",
+    "tutorial_oss": "OSS tutorials"
   }
 }
