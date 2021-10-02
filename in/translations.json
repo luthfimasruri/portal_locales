@@ -161,6 +161,17 @@
     },
     "sebelumnya": "SEBELUMNYA",
     "turunan": "TURUNAN",
+    "umku": "UMKU",
+    "umku1": {
+      "jangka_waktu": "Jangka waktu",
+      "jangka_waktu_kewajiban": "Jangka waktu pemenuhan kewajiban",
+      "jangka_waktu_persyaratan": "Jangka waktu pemenuhan persyaratan",
+      "kewajiban": "Kewajiban",
+      "kewenangan": "Kewenangan",
+      "masa_berlaku": "Masa berlaku",
+      "parameter": "Parameter",
+      "persyaratan": "Persyaratan"
+    },
     "uraian": "URAIAN"
   },
   "p_lokasi_usaha": {
@@ -180,7 +191,9 @@
     "berita": "BERITA",
     "dari_total": "dari total",
     "faq": "FAQ",
+    "informasi": "INFORMASI",
     "kbli": "KBLI",
+    "mekanisme": "MEKANISME PENGAWASAN",
     "menampilkan": "Menampilkan",
     "panduan": "PANDUAN",
     "pengumuman": "PENGUMUMAN",
